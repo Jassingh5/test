@@ -1,1 +1,2 @@
-Testing edititng a file
+Testing edititng a file.
+Added a new line.
