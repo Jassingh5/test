@@ -1,2 +1,2 @@
 Testing edititng a file.
-Added a new line again, and this will create a merge conflict.
+Added a new line and someone else in the team made some changes.
